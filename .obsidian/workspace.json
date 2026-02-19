@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "e0ed052736b0fc5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a098fcef5d8bf7d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3fbca5fa16b9000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NCQ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NCQ"
+            }
+          },
+          {
+            "id": "2d1df714e1c975ab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3affa0ac35659dd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0595a40151eb395a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b57c4fb4a02ee8ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a1fb6c271e934a32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "761c8a43dadf8042",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.5
+  },
+  "right": {
+    "id": "483280fe4ebc420b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b82dfb7d07797c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "722e32263241ab25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "未命名 的反向链接列表"
+            }
+          },
+          {
+            "id": "14364b16d959ba1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 的出链列表"
+            }
+          },
+          {
+            "id": "5be62e44fe90eb30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3e0d3290ec4c8cff",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "8c188d8ca6c57ac3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          },
+          {
+            "id": "b03fb82bdc1a7eee",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "excalidraw-cn:Create New Excalidraw File": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b03fb82bdc1a7eee",
+  "lastOpenFiles": [
+    "excalidraw 26-01-30 03.56.35.ex",
+    "红黑树.ex",
+    "NCQ.md",
+    "算法结构/未命名.md",
+    "算法结构",
+    "协议/SATA.md",
+    "AHCI.md",
+    "存储设备/ATA家族.md",
+    "其他概念/Flash.md",
+    "协议",
+    "其他概念",
+    "存储介质/固态硬盘（SSD).md",
+    "存储介质/机械硬盘（HDD）.md",
+    "测试/测试.md",
+    "存储设备",
+    "存储介质",
+    "测试",
+    "未命名.base"
+  ]
+}
